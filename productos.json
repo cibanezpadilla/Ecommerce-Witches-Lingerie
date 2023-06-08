@@ -1,0 +1,122 @@
+[
+  {
+    "codigo": 1,
+    "titulo": "Crossover bralette",
+    "image": "./imgs/PROD 1 -pexels-cottonbro-studio-10212048 (1).jpg",
+    "categoria": "Bras",
+    "descripcion": "Crossover neckline<br><br>Pullover style with supportive shoulder straps.<br><br>Wide underbust band with enclosed elastics.",
+    "precio": 48,
+    "talles": ["Small", "Medium", "Large", "XLarge"],
+    "colores": [
+      { "id": "Peach", "cod": "#ce9e9e" },
+      { "id": "Nude", "cod": "#cfbea4" },
+      { "id": "Black", "cod": "#000000" }
+    ],
+    "cantidad": 1
+  },
+  {
+    "codigo": 2,
+    "titulo": "Mid rise retro brief",
+    "image": "./imgs/PROD 2 -pexels-cottonbro-studio-10212044.jpg",
+    "categoria": "Undies",
+    "descripcion": "95% Certified Organic Cotton with 5% elastane for stretch.<br><br>Forgiving waistband that never digs in.<br><br>Enclosed leg elastics for secure, but cheeky placement.<br><br>Our super popular Mid-Rise retro style",
+    "precio": 17,
+    "talles": ["Small", "Medium", "Large", "XLarge"],
+    "colores": [
+      { "id": "Peach", "cod": "#ce9e9e" },
+      { "id": "Nude", "cod": "#cfbea4" },
+      { "id": "Black", "cod": "#000000" }
+    ],
+    "cantidad": 1
+  },
+  {
+    "codigo": 3,
+    "titulo": "Mid rise bikini",
+    "image": "./imgs/PROD 3 -pexels-roberto-hund-5317520.jpg",
+    "categoria": "Undies",
+    "descripcion": "95% Certified Organic Cotton with 5% elastane for stretch.<br><br>Forgiving waistband that never digs in.<br><br>Enclosed leg elastics for secure, but cheeky placement.<br>Mid-Rise",
+    "precio": 17,
+    "talles": ["Small", "Medium", "Large", "XLarge"],
+    "colores": [
+      { "id": "White", "cod": "#ffffff" },
+      { "id": "Nude", "cod": "#cfbea4" },
+      { "id": "Black", "cod": "#000000" }
+    ],
+    "cantidad": 1
+  },
+  {
+    "codigo": 4,
+    "titulo": "Sport bra",
+    "image": "./imgs/PROD 4 -pexels-roberto-hund-5317695.jpg",
+    "categoria": "Bras",
+    "descripcion": "Scoop neckline in front and back.<br><br>Pullover style with supportive shoulder straps.<br><br>Vertical bust seams for lift without bulk.<br><br>Wide underbust band with enclosed elastics.",
+    "precio": 48,
+    "talles": ["Small", "Medium", "Large", "XLarge"],
+    "colores": [
+      { "id": "White", "cod": "#ffffff" },
+      { "id": "Nude", "cod": "#cfbea4" },
+      { "id": "Black", "cod": "#000000" }
+    ],
+    "cantidad": 1
+  },
+  {
+    "codigo": 5,
+    "titulo": "Bodysuit",
+    "image": "./imgs/PROD - 5 pexels-roberto-hund-5311792.jpg",
+    "categoria": "Bodysuits",
+    "descripcion": "Lingerie straps with adjustable sliders.<br><br>Narrow underbust band with enclosed elastics.<br><br>95% Certified Organic Cotton with 5% elastane for stretch.<br><br>Classic mid-rise with cheeky seat coverage",
+    "precio": 48,
+    "talles": ["Small", "Medium", "Large", "XLarge"],
+    "colores": [
+      { "id": "White", "cod": "#ffffff" },
+      { "id": "Nude", "cod": "#cfbea4" },
+      { "id": "Black", "cod": "#000000" }
+    ],
+    "cantidad": 1
+  },
+  {
+    "codigo": 6,
+    "titulo": "Thong",
+    "image": "./imgs/PROD 6 - ppexels-roberto-hund-5317768.jpg",
+    "categoria": "Undies",
+    "descripcion": "95% Certified Organic Cotton with 5% elastane for stretch.<br><br>Enclosed leg elastics for secure, but cheeky placement.<br><br>Low-Rise",
+    "precio": 16,
+    "talles": ["Small", "Medium", "Large", "XLarge"],
+    "colores": [
+      { "id": "White", "cod": "#ffffff" },
+      { "id": "Nude", "cod": "#cfbea4" },
+      { "id": "Black", "cod": "#000000" }
+    ],
+    "cantidad": 1
+  },
+  {
+    "codigo": 7,
+    "titulo": "Triangle bralette",
+    "image": "./imgs/PROD7.jpg",
+    "descripcion": "Lingerie straps with adjustable sliders.<br><br>Narrow underbust band with enclosed elastics.<br><br>95% Certified Organic Cotton with 5% elastane for stretch.",
+    "categoria": "Bras",
+    "precio": 48,
+    "talles": ["Small", "Medium", "Large", "XLarge"],
+    "colores": [
+      { "id": "White", "cod": "#ffffff" },
+      { "id": "Nude", "cod": "#cfbea4" },
+      { "id": "Black", "cod": "#000000" }
+    ],
+    "cantidad": 1
+  },
+  {
+    "codigo": 8,
+    "titulo": "Cup bra",
+    "image": "./imgs/PROD 8 - ppexels-roberto-hund-5317580.jpg",
+    "categoria": "Bras",
+    "descripcion": "Lingerie straps with adjustable sliders.<br><br>Narrow underbust band with enclosed elastics.<br><br>95% Certified Organic Cotton with 5% elastane for stretch.",
+    "precio": 48,
+    "talles": ["Small", "Medium", "Large", "XLarge"],
+    "colores": [
+      { "id": "White", "cod": "#ffffff" },
+      { "id": "Nude", "cod": "#cfbea4" },
+      { "id": "Black", "cod": "#000000" }
+    ],
+    "cantidad": 1
+  }
+]
